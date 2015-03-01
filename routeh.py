@@ -27,7 +27,7 @@ class bcolors:
     UNDERLINE = '\033[4m'
 
 #Api Key Shodan
-key = "50Zu8k1xXoSeTkRRl7SaRx7OJWHDQrP3"
+key = "suakey"
  
 os.system('clear')
 print '               _       _    '
