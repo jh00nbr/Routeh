@@ -7,6 +7,7 @@
 #         
 # Page: www.facebook.com/InurlBrasil
 # Blog: blog.inurl.com.br
+# jh00nbr
 
 #Dependencias
 # apt-get install python-shodan 
